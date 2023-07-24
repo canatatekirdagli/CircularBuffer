@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "test:watch": "jest --watchAll",
+    "test": "jest"
+  },
+  "name": "circularbuffer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
